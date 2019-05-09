@@ -1,2 +1,1 @@
-# linux_server_hacks
-linux server hacks
+# Linux Server Hacks
